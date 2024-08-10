@@ -1,0 +1,9 @@
+streamlit
+pandas
+scikit-learn
+xgboost
+catboost==1.2.5
+matplotlib
+numpy==1.26.4
+seaborn
+ipykernel
